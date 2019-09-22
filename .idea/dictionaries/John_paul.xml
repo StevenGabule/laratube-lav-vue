@@ -2,6 +2,7 @@
   <dictionary name="John paul">
     <words>
       <w>authenticatable</w>
+      <w>fillable</w>
     </words>
   </dictionary>
 </component>
